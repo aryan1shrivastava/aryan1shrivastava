@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrivastava</h1>
 <h3 align="center">A passionate Web developer from India, Currently Pursuing B.E CSE. Love to Create Content and share with the world, Have almost reached 15 million people with my content across globe.</h3> 
-</br>
-<h3>100K+ Followers @code.aryan</h3>
+<h3>Having 100K+ Followers @code.aryan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1shrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1shrivastava" /> </p>
 
