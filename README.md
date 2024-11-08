@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/heyy_aryann" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_aryann?logo=twitter&style=for-the-badge" alt="heyy_aryann" /></a> </p>
 
-- 🔭 I’m currently Working on **My Portfolio Site**
+- 🔭 I’m currently Working on **An AI/ML Project**
 
-- 🌱 I’m currently learning **React Js and Node Js**
+- 🌱 I’m currently learning **Langchain and LLMs**
 
 - 💬 Ask me about **Web Dev, AI/ML and Content Creation**
 
