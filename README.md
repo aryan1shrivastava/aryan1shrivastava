@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/heyy_aryann" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_aryann?logo=twitter&style=for-the-badge" alt="heyy_aryann" /></a> </p>
 
-- 🔭 I’m currently Working on **An AI/ML Project**
+- 🔭 I’m currently Working on **LeetNest — A Modern Coding Practice Platform**
 
-- 🌱 I’m currently learning **Langchain and LLMs**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **Web Dev, AI/ML and Content Creation**
 
